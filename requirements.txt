@@ -1,1 +1,2 @@
 apache-airflow==2.8
+apache-airflow-providers-microsoft-mssql==3.6.1
